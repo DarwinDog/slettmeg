@@ -1,1 +1,1 @@
-Ny linje lagt til i readmy fila
+Ny tekstlinje lagt til i readmy fila
