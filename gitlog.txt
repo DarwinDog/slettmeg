@@ -1,0 +1,35 @@
+commit 3595d990b34c636c1e8539db71862be088ab0d4c
+Author: DarwinDog <knut.husdal@gmail.com>
+Date:   Wed Sep 18 14:20:01 2019 +0200
+
+    La til .gitignore fil
+
+commit fe574fcdef8f12c7df520918ca041c4ae01fb36e
+Author: DarwinDog <knut.husdal@gmail.com>
+Date:   Wed Sep 18 13:38:16 2019 +0200
+
+    Tror jeg er ferdig nå
+
+commit 66c06ca07fe580f05c4bf993e557e5ca3cfbc447
+Author: DarwinDog <knut.husdal@gmail.com>
+Date:   Wed Sep 18 13:24:27 2019 +0200
+
+    added more empty files
+
+commit 79b95cfe3e284ee6cf41c946ae0cf3fbc174475a
+Author: DarwinDog <knut.husdal@gmail.com>
+Date:   Wed Sep 18 13:19:32 2019 +0200
+
+    added two files
+
+commit a82383bb9665c99b77ef5ec4992c35e97731f1bf
+Author: DarwinDog <knut.husdal@gmail.com>
+Date:   Wed Sep 18 13:12:21 2019 +0200
+
+    La til en linje
+
+commit 7355a424e5f2e8066f8d620b41a623769a20e1d1
+Author: DarwinDog <knut@Knut.Husdal.ubuntu>
+Date:   Wed Sep 18 13:08:48 2019 +0200
+
+    La til en readme fil
